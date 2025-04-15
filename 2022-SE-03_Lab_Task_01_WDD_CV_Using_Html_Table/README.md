@@ -29,7 +29,7 @@ This is a basic **CV (Curriculum Vitae)** project created using **HTML** and a b
 
 ## 🔗 How to View
 
-Just open the `index.html` file in any web browser to see the formatted CV.
+Just open the file in any web browser to see the formatted CV.
 
 ---
 
