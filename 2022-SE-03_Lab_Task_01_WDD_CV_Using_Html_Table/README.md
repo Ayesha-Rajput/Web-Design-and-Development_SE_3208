@@ -33,4 +33,9 @@ Just open the file in any web browser to see the formatted CV.
 
 ---
 
-> ⚡ Created as part of university lab practice for learning basic HTML & CSS layout techniques.
+## 🔗 Live Previews
+
+Click the links below to preview the HTML files directly in your browser:
+
+- **Lab Task 1 – Table-based CV**  
+  [View Preview](https://raw.githack.com/Ayesha-awa/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_Task_01_WDD_CV_Using_Html_Table/2022-SE-03_Lab_task_01_WDD_CV_Using_Table.html)
