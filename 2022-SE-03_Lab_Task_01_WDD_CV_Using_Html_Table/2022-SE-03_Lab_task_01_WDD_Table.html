@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Table</title>
+    <link rel="icon" type="image/jpg" href="Assets/AI.jpg">
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid #9bb6c9;
+            border-collapse: collapse;
+            font-family: Sans-serif;
+            font-size: 18px;
+        }
+
+        th {
+            font-weight: lighter;
+            padding: 16px;
+            text-align: left;
+            background-color: #bcd4e9;
+
+        }
+
+        td {
+            padding: 12px;
+        }
+
+        tr:nth-child(4),
+        tr:nth-child(7) {
+            background-color: #c6d9ea;
+            font-weight: bold
+        }
+
+        tr:hover {
+            background-color: #dbddde;
+        }
+
+        caption {
+            font-weight: bold;
+            font-size: 20px;
+            padding: 10px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <table style="width: 60%;">
+        <caption>Film Rating Comparison by Country
+        </caption>
+
+        <thead>
+            <tr>
+                <th>Country</th>
+                <th>Film title</th>
+                <th>Released</th>
+                <th>Votes</th>
+                <th>Rating</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td rowspan="3">USA</td>
+                <td>The Shawshank Redemption</td>
+                <td>1994</td>
+                <td>678790</td>
+                <td>9.5</td>
+            </tr>
+            <tr>
+                <td>The Godfather</td>
+                <td>1972</td>
+                <td>511495</td>
+                <td>9.2</td>
+            </tr>
+            <tr>
+                <td>The Godfather:Part II</td>
+                <td>1974</td>
+                <td>319352</td>
+                <td>9</td>
+            </tr>
+
+            <tr>
+                <td colspan="4">Highest Rating</td>
+                <td>9.5</td>
+            </tr>
+
+            <tr>
+                <td rowspan="2">Italy</td>
+                <td>The Good, the bad and the Ugly</td>
+                <td>1974</td>
+                <td>319352</td>
+                <td>9</td>
+            </tr>
+
+            <tr>
+                <td>The Star Maker</td>
+                <td>1974</td>
+                <td>319352</td>
+                <td>9</td>
+            </tr>
+
+            <tr>
+                <td colspan="4">Highest Rating</td>
+                <td>8.9</td>
+            </tr>
+        </tbody>
+
+        <tfoot></tfoot>
+    </table>
+
+</body>
+
+</html>
