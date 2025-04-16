@@ -37,5 +37,16 @@ Just open the file in any web browser to see the formatted CV.
 
 Click the links below to preview the HTML files directly in your browser:
 
-- **Lab Task 1 – Table-based CV**  
+- **HTML Table Based CV**  
   [View Preview](https://raw.githack.com/Ayesha-awa/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_Task_01_WDD_CV_Using_Html_Table/2022-SE-03_Lab_task_01_WDD_CV_Using_Table.html)
+
+  - **Formatted Table using HTML + CSS**  
+  [🔗 Live Preview](https://raw.githack.com/Ayesha-awa/[your-repo-name]/main/simple-table.html)
+
+---
+## 📁 Repository Info
+
+All source code files are available in this repository.  
+More tasks will be added as the course progresses.
+
+---
