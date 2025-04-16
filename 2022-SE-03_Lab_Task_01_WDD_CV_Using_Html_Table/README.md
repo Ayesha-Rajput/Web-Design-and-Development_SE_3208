@@ -2,7 +2,7 @@
 
 This is a basic **CV (Curriculum Vitae)** project created using **HTML** and a bit of **CSS**. The task was part of a lab assignment to practice structuring data using tables and adding basic styling.
 
-## 📌 What's Included
+## 📌 What's Included:
 
 - A **simple CV layout** built using HTML `<table>`.
 - Sections like:
