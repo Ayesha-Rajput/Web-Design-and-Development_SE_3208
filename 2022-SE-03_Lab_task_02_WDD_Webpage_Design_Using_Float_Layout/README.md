@@ -1,37 +1,39 @@
-📝 Lab Task 2 – Float-Based Class Web Portal
+# 🧑‍💻 Lab Task 2 – Float Layout Based Web Page
 
-This is a class web portal project designed using **HTML** and **CSS** float properties.  
-The task was part of a lab assignment to practice creating side-by-side layouts and responsive sections using floats.
+This project is a practical assignment designed to reinforce concepts of HTML and CSS, specifically the use of the **float** property to create professional layouts. Students learn basic webpage structuring using floats, forms, embedding maps, and building visually appealing responsive pages.
 
-📌 What's Included:
-A professional class website layout built using HTML and CSS.
-Sections like:
-- Navigation Bar with multiple links (Home, Lectures, Labs, Student Work, Resources, Blogs, Contact)
-- Welcome Section with heading, paragraph, and image
-- Mid-section with motivational text
-- Embedded Google Map for the department location
-- Contact Form to get in touch with the instructor
+## 📋 What's Included
 
-💡 Key Concepts Practiced
-- HTML Structure (semantic tags)
-- CSS Float Properties (float: left / right)
-- Text Formatting (headings, paragraphs, links)
-- Form Elements (input fields, textarea, submit button)
-- Basic Responsive Design Techniques
-- Embedding Google Maps using iframe
+A simple class web portal layout built using HTML and CSS:
+- **Navigation Bar** with links (Home, Lectures, Labs, Resources, Blogs, Contact).
+- **Welcome Section** with introductory text and an image floated to the right.
+- **Highlight Banner** showcasing a key message.
+- **Contact Section** with an embedded Google Map and a Contact Form.
+- **Footer** with copyright.
 
-🔗 How to View
-Just open the HTML file in any web browser to see the fully designed class portal.
+## 💡 Key Concepts Practiced
 
-🔗 Live Preview
-Click the link below to preview the page directly in your browser:
+- HTML Structure (header, nav, main, section, footer)
+- Floating Elements using CSS (`float: left;` and `float: right;`)
+- Form Elements (Name, Email, Phone, Message inputs)
+- Responsive layout basics
+- Google Maps embedding
+- Text styling and button design
 
-**Class Web Portal – Live Preview**  
-[View Live Preview](#)  
-*(Replace `#` with your live project link.)*
+## 🔗 How to View
 
-📁 Repository Info
-All source code files are available in this repository.
-More lab tasks and web development projects will be added as the course progresses.
+- Open the HTML file (`index.html`) in any modern web browser (Chrome, Edge, Firefox).
+- Ensure CSS file (`style.css`) is properly linked for full design rendering.
 
+## 🔗 Live Preview
+
+👉 [Live Preview Link](#)  
+*(Upload the project on Colab or GitHub and update this link here.)*
+
+## 📁 Repository Info
+
+- All source code files (HTML, CSS, Images) are available in this folder.
+- Future tasks and enhancements will be added progressively as learning continues.
+
+---
 
