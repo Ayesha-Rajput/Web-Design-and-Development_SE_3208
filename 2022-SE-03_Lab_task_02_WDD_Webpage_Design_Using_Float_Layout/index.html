@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pixel-Power | Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/jpg" href="Assets/AI.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+
+        <div class="logo"> <img src="Assets/logo.png" alt="Pixel Power" width="15%"> </div>
+
+        <nav>
+            <ul>
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">Lectures</a></li>
+                <li><a href="#">Labs</a></li>
+                <li><a href="#">Student Work</a></li>
+                <li><a href="#">Resourses</a></li>
+                <li><a href="#">Blogs</a></li>
+            </ul>
+        </nav>
+
+        <div class="Contact_btn">
+            <a href="#">Contact</a>
+        </div>
+
+
+    </header>
+    <div style="clear: both;"></div>
+
+
+    <main>
+        <!-- Welcome-section -->
+        <section class="Welcome-section">
+            <div class="Welcome-text">
+                <h1>Welcome to Our Class Web Portal</h1>
+                <p>This site is part of our practical learning journey in web development. Here, students learn HTML,
+                    CSS (including floats), forms, and responsive design by building and contributing to this platform.
+                </p>
+                <a href="#" class="btn">Start Exploring</a>
+            </div>
+
+            <div class="Welcome-image">
+                <img src="Assets/hero-image.jpg" alt="">
+            </div>
+        </section>
+
+        <div style="clear: both;"></div>
+        <!-- motivation-section -->
+        <section class="motivation-section">
+            <p>This isn’t just a website — it’s a learning journey. Here, students document what they learn and build.
+            </p>
+        </section>
+        <div style="clear: both;"></div>
+
+        <!-- contact-section -->
+        <section contact-section>
+            <div class="map">
+                <iframe
+                    src="https://maps.google.com/maps?q=University%20of%20Malakand&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                    frameborder="0"></iframe>
+            </div>
+
+            <div class="contact-form">
+                <h2>Get in Touch with the Instructor</h2>
+                <p>Have questions about lectures, labs, or assignments? Use the form below to contact your instructor or
+                    TA. We’re here to support your learning journey.</p>
+                <form action="process.php" method="post">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" required>
+
+                    <label for="Email">Email:</label>
+                    <input type="email" name="Email" id="Email" required>
+
+                    <label for="tel">Tel:</label>
+                    <input type="tel" name="Telephone-No" id="tel">
+
+                    <label for="msg">Message:</label>
+                    <textarea name="Message" id="msg" cols="22" required></textarea>
+
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </section>
+
+
+        <article>
+
+        </article>
+
+    </main>
+
+    <!-- Optional -- Recent post,related links etc -->
+    <aside> </aside>
+    <div style="clear: both;"></div>
+
+    <footer>All rights reserved © 2025</footer>
+</body>
+
+</html>
