@@ -1,4 +1,4 @@
-# 🧑‍💻 Lab Task 2 – Float Layout Based Web Page
+# Lab Task 2 – Float Layout Based Web Page
 
 This project is a practical assignment designed to reinforce concepts of HTML and CSS, specifically the use of the **float** property to create professional layouts. Students learn basic webpage structuring using floats, forms, embedding maps, and building visually appealing responsive pages.
 
