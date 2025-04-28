@@ -28,7 +28,7 @@ A simple class web portal layout built using HTML and CSS:
 ## 🔗 Live Preview
 Click Below:
 -
-[View Preview]https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_02_WDD_Webpage_Design_Using_Float_Layout/index.html
+[View Preview](https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_02_WDD_Webpage_Design_Using_Float_Layout/index.html)
 
 ## 📁 Repository Info
 
