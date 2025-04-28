@@ -57,8 +57,13 @@ nav ul li a.active{
     color: white;
 }
 
+nav ul li a.active:hover{
+    background-color: black;
+    color: white;}
+
 nav ul li a:hover{
-    background-color: #d12304;
+    background-color:  #ff8632;
+    color: white;
 }
 
 .Contact_btn{
@@ -98,6 +103,7 @@ nav ul li a:hover{
     font-size: 50px;
     margin-bottom: 20px;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .Welcome-text p{
