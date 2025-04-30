@@ -30,7 +30,7 @@ Click Below:
 -
 [View Preview](https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_02_WDD_Webpage_Design_Using_Float_Layout/index.html)
 
--
+## Lab Task Design
 ![Lab Task Design](Assets/lab-task-screenshot.png)
 
 > ⚠️ **Note:** This screenshot was captured from the local browser preview (opened via Visual Studio Code).  
