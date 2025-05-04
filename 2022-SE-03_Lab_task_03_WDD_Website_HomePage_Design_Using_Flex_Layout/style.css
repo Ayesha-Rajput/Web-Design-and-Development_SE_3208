@@ -12,7 +12,7 @@ header{
     align-items: center;
     justify-content: center;
     gap: 30px;
-    padding: 20px 0;
+    padding: 25px 0;
     line-height: 1.5;
     flex-wrap: wrap;
 
@@ -96,9 +96,10 @@ min-width: max-content;
 }
 
 #hero h1 {
-    font-size: 48px;
+    font-size: 55px;
     margin-bottom: 20px;
-    font-weight: bold;     
+    font-weight: bold; 
+    font-weight: 700;    
 }
 
 .hero-content h1 strong {
