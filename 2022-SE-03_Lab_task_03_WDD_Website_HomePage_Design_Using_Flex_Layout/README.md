@@ -48,8 +48,16 @@ A complete landing page built using **HTML** and **CSS Flexbox**:
 ---
 
 ## 🔗 Live Preview
+Click Below:
+-
+[View Preview](https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_03_WDD_Website_HomePage_Design_Using_Flex_Layout/index.html)
 
-👉 **View Preview** (Coming Soon)
+## Lab Task Design
+![Lab Task Design](Assets/lab-task-screenshot.png)
+
+> ⚠️ **Note:** This screenshot was captured from the local browser preview (opened via Visual Studio Code).  
+> While I also used [raw.githack.com](https://www.githack.com) to generate a live preview link, it did not render the fonts exactly as designed — likely due to font loading delays or restrictions in external hosting.  
+> Therefore, I included a screenshot from my local preview where the fonts and design appear exactly as intended.
 
 ---
 
