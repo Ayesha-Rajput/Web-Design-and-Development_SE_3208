@@ -216,7 +216,7 @@ align-items: center;
 padding:70px 0 70px 150px;
 flex-wrap: wrap;
 gap: 0;
-background-color: #e0f0fd;
+background-color: #fff;
 overflow: hidden; /* Prevent horizontal scroll */
 }
 
@@ -343,6 +343,7 @@ background-color:  #f49b2e;
     align-items: center;
     padding:70px 150px 70px 0;
     flex-wrap: wrap;
+    background-color: #e0f0fd;
     gap: 40px;
     overflow: hidden; /* Prevent horizontal scroll */
     }
