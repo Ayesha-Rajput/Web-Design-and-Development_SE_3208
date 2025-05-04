@@ -56,6 +56,9 @@ header{
    font-weight: bold;
 }
 
+.menu a:hover{
+  color: #f49b2e;
+}
 .cta-button-1{
 width:20%;
 flex: 0 1 auto;
@@ -72,6 +75,9 @@ min-width: max-content;
     text-align: center;
     border-radius: 5px;
     font-weight: bold;
+}
+.cta-button-1 a:hover{
+  background-color:#3fa9f5;
 }
 /* ----------------------------------------------Hero-section---------------------------------------------*/
 #hero {
@@ -127,6 +133,13 @@ min-width: max-content;
     
 }
 
+.button_primary:hover{
+  background-color:brown;
+}
+
+.button_secondary:hover{
+  background-color:brown;
+}
 .button_secondary{
     text-decoration: none;
     background-color: #3fa9f5;
