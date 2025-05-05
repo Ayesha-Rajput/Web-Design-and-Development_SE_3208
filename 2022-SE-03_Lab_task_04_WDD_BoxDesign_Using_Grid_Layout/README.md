@@ -9,7 +9,7 @@ Students practiced building a multi-box grid layout using column and row spannin
 
 A grid-based layout built using **HTML** and **CSS Grid**:
 
-- A grid container with multiple boxes (Box 1 to Box 7) styled in various colors.
+- A grid container with multiple boxes (Box 1 to Box 9) styled in various colors.
 - Manual item placement using `grid-column` and `grid-row`.
 - Items spanning across multiple columns and rows using `span` or defined start/end lines.
 - Application of gaps, borders, and background colors for layout clarity.
