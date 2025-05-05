@@ -1,69 +1,60 @@
-# Lab Task 3 – Flex Layout Based Web Page
+# Lab Task 4 – Grid Layout Based Web Page BoxDesign
 
-This project is a practical assignment designed to reinforce concepts of **HTML** and **CSS**, specifically the use of the **Flexbox Layout** model to create modern, responsive landing pages.  
-Students will learn to design a structured business webpage using background images with gradient overlays, professional section layouts, and responsive design principles.
+This project is a hands-on assignment designed to strengthen understanding of **HTML** and **CSS**, with a focus on the **CSS Grid Layout** model.  
+Students practiced building a multi-box grid layout using column and row spanning, precise item positioning, and grid-based design principles.
 
 ---
 
 ## 📋 What's Included
 
-A complete landing page built using **HTML** and **CSS Flexbox**:
+A grid-based layout built using **HTML** and **CSS Grid**:
 
-- **Navigation Bar** with logo and links (Home, Support, FAQs, Contact Us, Sign In, Get Started Now).
-- **Hero Section** with a full-screen background image and gradient overlay, featuring a main headline, subheadline, and two call-to-action buttons.
-- **Statistics Section** showing:
-  - Active Users
-  - Satisfied Clients
-  - Completed Projects
-- **Feature Sections** with cards, covering:
-  - Manage Projects
-  - Manage Clients
-  - Manage Quotations
-  - Manage Invoices
-  - Administration
-  - Messaging and Video Calls
-- **Pricing Plan Section** showing three subscription packages (Basic, Professional, Enterprise) with action buttons.
-- **Footer** containing social media links and copyright.
+- A grid container with multiple boxes (Box 1 to Box 7) styled in various colors.
+- Manual item placement using `grid-column` and `grid-row`.
+- Items spanning across multiple columns and rows using `span` or defined start/end lines.
+- Application of gaps, borders, and background colors for layout clarity.
+- Vertical and horizontal alignment of items within the grid.
+- A practical demonstration of positioning a grid item over another's space.
 
 ---
 
 ## 💡 Key Concepts Practiced
 
-- **HTML5 Semantic Structure** (header, nav, section, footer)
-- **Flexbox Layout Model** (flex containers, flex items, alignment, justification, wrapping)
-- **Background Images with Gradient Overlays**
-- **Responsive Layout Techniques**
-- **Designing Feature Cards and Pricing Sections**
-- **Button Styling and Hover Effects**
-- **Typography and Spacing Adjustments**
+- **CSS Grid Layout Basics** (`display: grid`)
+- **Grid Template Definitions** (`grid-template-columns`, `grid-template-rows`)
+- **Row and Column Gaps**
+- **Grid Item Placement** using:
+  - `grid-row`, `grid-column`
+  - `grid-row-start`, `grid-row-end`
+  - `grid-column-start`, `grid-column-end`
+  - `grid-row: span n`, `grid-column: span n`
+- **Centering Grid Items** (`align-items`, `justify-items`, `place-items`)
+- **Spanning and Overlapping Items**
 
 ---
 
 ## 🔗 How to View
 
-- Open the `index.html` file in any modern web browser (Chrome, Edge, Firefox).
-- Ensure the `style.css` file is properly linked to apply the complete design.
-- All images used (backgrounds, icons, etc.) must be correctly placed inside the `images` folder.
+- Open the `index.html` file in any modern browser.
+- Ensure the `style.css` file is linked properly to see the full grid layout.
+- All elements will appear as colored boxes positioned using grid techniques.
 
 ---
 
 ## 🔗 Live Preview
 Click Below:
 -
-[View Preview](https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_03_WDD_Website_HomePage_Design_Using_Flex_Layout/index.html)
+[View Preview](https://raw.githack.com/Ayesha-Rajput/Web-Design-and-Development_SE_3208/main/2022-SE-03_Lab_task_04_WDD_BoxDesign_Using_Grid_Layout/index.html)
 
 ## Lab Task Design
-![Lab Task Design](Assets/2022-SE-03_Lab_task_03_WDD_Website_HomePage_Design_Using_Flex_Layout-.png)
+![Lab Task Design](Assets/screencapture-127-0-0-1-5500-2025-05-05-20_57_53.png)
 
-> ⚠️ **Note:** This screenshot was captured from the local browser preview (opened via Visual Studio Code).  
-> While I also used [raw.githack.com](https://www.githack.com) to generate a live preview link, it did not render the fonts exactly as designed — likely due to font loading delays or restrictions in external hosting.  
-> Therefore, I included a screenshot from my local preview where the fonts and design appear exactly as intended.
+> ⚠️ **Note:** This preview is taken from a local browser. In some cases, external font rendering or image paths may not load correctly via online preview links.
 
 ---
 
 ## 📁 Repository Info
 
-All project files including **HTML**, **CSS**, and **Images** are included in this repository.  
-Future improvements and design upgrades will be added as learning progresses.
-
----
+All project files, including **HTML** and **CSS**, are included in this repository.  
+This task was developed as part of coursework to practice Grid Layout in modern front-end development.  
+Further updates and enhancements may be added in the future as learning progresses.
